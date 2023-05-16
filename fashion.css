@@ -1,0 +1,57 @@
+body{
+    padding: 30px;
+}
+
+#ok{
+  padding-right: 60px;
+}
+
+#container{
+  style: "white-space:nowrap";
+}
+
+
+#p1{
+  font-family: Space Mono;
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 95px;
+  letter-spacing: -0.035em;
+  text-align: left;
+}
+
+#p2{
+  font-family: Space Mono;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 36px;
+  letter-spacing: -0.035em;
+  text-align: left;
+
+}
+
+#butt{
+  border: none;
+  font-family: Space Mono;
+  background:  #333333;
+  color: #FFFFFF;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: -0.035em;
+  text-align: center;
+  width: 216px;
+  height: 68px;
+  left: 740px;
+  top: 663px;
+}
+
+#p3{
+  font-family: Inconsolata;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 25px;
+  letter-spacing: -0.08em;
+  text-align: left;
+
+}
